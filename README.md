@@ -1,0 +1,1 @@
+#A Collection of Scripts to Automate Mac Commands
